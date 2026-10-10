@@ -1,2 +1,2 @@
-# Sneka-M
+#StudentPlacementManagementSystem
 StudentPlacementManagementSystem
